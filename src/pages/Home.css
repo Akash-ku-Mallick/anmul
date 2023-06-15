@@ -1,0 +1,33 @@
+#Home {
+  display: flex;
+  flex-direction: column;
+}
+
+.NabBar { 
+  display: inline-flex;
+  flex-wrap: nowrap;
+  width: 100%;
+  height: 20%;
+}
+
+.panel {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+}
+
+.Hero { 
+  flex-direction: column;
+}
+
+.FeatureProducts { 
+  max-width: 400vw;
+}
+
+.ContactUs { 
+  flex-direction: column;
+}
+
+.Footer {
+  flex-direction: column;
+}
